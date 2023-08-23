@@ -11,7 +11,7 @@ int main()
     "1T-English","2T-English",
     "3T-English","1T-Science",
     "2T-Science","3T-Science" };
-   // dynamicpoint::getSignaturesData(arr, sizearray);
+    dynamicpoint::getSignaturesData(arr,sizearray,subjects[]);
 
 }
 
